@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="c49dcdbb-895c-48b5-a79b-0db95bf61664" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="38f70b93-8bcc-4232-aff1-83d19c8c8c62" name="Default Changelist" comment="" />
+>>>>>>> 701d5ae... sdsadsad
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +19,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="1ywmmGaJoCPl8zTqgAEDhtwIZVi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,5 +49,9 @@
     <MESSAGE value="pre commit" />
     <MESSAGE value="pre commit 2" />
     <option name="LAST_COMMIT_MESSAGE" value="pre commit 2" />
+=======
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+>>>>>>> 701d5ae... sdsadsad
   </component>
 </project>
