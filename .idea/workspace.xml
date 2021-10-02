@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="c49dcdbb-895c-48b5-a79b-0db95bf61664" name="Default Changelist" comment="" />
 =======
     <list default="true" id="38f70b93-8bcc-4232-aff1-83d19c8c8c62" name="Default Changelist" comment="" />
 >>>>>>> 701d5ae... sdsadsad
+=======
+    <list default="true" id="38f70b93-8bcc-4232-aff1-83d19c8c8c62" name="Default Changelist" comment="" />
+>>>>>>> origin/0210
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +23,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
 <<<<<<< HEAD
   <component name="ProjectId" id="1ywmmGaJoCPl8zTqgAEDhtwIZVi" />
   <component name="ProjectViewState">
@@ -53,5 +58,9 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="oldMeFiltersMigrated" value="true" />
 >>>>>>> 701d5ae... sdsadsad
+=======
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+>>>>>>> origin/0210
   </component>
 </project>
